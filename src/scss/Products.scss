@@ -1,0 +1,18 @@
+.products {
+    height: 10vw;
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+.product-card {
+    height: 160px;
+    width: 180px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.product-card img {
+    height: 80px;
+    width: 150px;
+}
