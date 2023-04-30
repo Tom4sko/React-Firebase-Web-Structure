@@ -1,2 +1,4 @@
-# Backend-for-Firebase-React-ecommerce-
-backend code for website, some functions will add later. I wasn't playing with style.
+# React-Firebase-Web-Structure
+Code for connecting Firebase + React through vite.
+# Starting
+npm run dev
